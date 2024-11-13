@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="G_2em15Yx1u_0QbuEonZ">
-    <mxGraphModel>
+    <mxGraphModel dx="344" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PH478-871XoAxRSMUN55-1" value="Homepage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-2" value="introduction" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-3" value="navigationbar" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-4" value="intro of topic" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-5" value="purpose&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-6" value="name" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-7" value="effects" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-8" value="improve" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-9" value="info of littering in out south auckland community" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-10" value="reason of the importance of littering" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="361.25" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PH478-871XoAxRSMUN55-11" value="real person with the name of user creating website." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="425" width="120" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
